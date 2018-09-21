@@ -3,11 +3,9 @@ Projeto de óculos-guia para deficientes visuais usando microcontrolador com nú
 
 INTEGRANTES
 
-João Luca Ripardo Teixeira Costa
-
-Johnny Alves de Assis
-
-Yuri da Cunha Lima
+  João Luca Ripardo Teixeira Costa   
+  Johnny Alves de Assis   
+  Yuri da Cunha Lima
 
 
 MOTIVAÇÃO
