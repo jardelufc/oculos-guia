@@ -1,6 +1,13 @@
 # oculos-guia
 Projeto de óculos-guia para deficientes visuais usando microcontrolador com núcleo Cortex-M0
 
+INTEGRANTES
+
+JOÃO LUCA RIPARDO TEIXEIRA COSTA
+JOHNNY ALVES DE ASSIS
+YURI DA CUNHA LIMA
+
+
 MOTIVAÇÃO
 
 Uma das dificuldades que ainda persistem quanto à locomoção do deficiente visual é a impossibilidade de detecção de obstáculos que estejam acima do campo de ação da bengala, o que muitas vezes resulta em uma colisão.
